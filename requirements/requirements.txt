@@ -265,7 +265,7 @@ jsonschema-specifications==2025.4.1
 jupyter-client==6.1.12
 jupyter-console==6.1.0
 jupyter-leaflet==0.20.0
-jupyter-server==1.16.0
+jupyter-server==2.11.2
 jupyter_core==5.8.1
 jupyter_kernel_gateway @ git+https://github.com/googlecolab/kernel_gateway@b134e9945df25c2dcb98ade9129399be10788671
 jupyterlab_pygments==0.3.0
